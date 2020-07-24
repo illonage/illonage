@@ -1,5 +1,6 @@
 ![banner](https://github.com/illonage/illonage/blob/master/banner.jpg)
-          
+:wave: Hi! I am Geraldine a.k.a Gigi. I am a Developer Advocate :avocado: at Tableau 
+        
 <!--
 **illonage/illonage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
